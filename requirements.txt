@@ -1,0 +1,5 @@
+streamlit
+torch
+transformers
+newspaper3k
+sentencepiece
